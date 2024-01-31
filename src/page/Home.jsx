@@ -55,7 +55,7 @@ const Home = () => {
 
 
      <div className='w-[80%] flex xl:justify-between mt-10  xl:flex-row flex-col  xl:mx-auto'>
-     <div className='w-[20rem] '>
+     <div className='w-[25rem] '>
         <img src='./images/skirt.png' className='rounded-md' />
         <div className='text-sm mt-2'>
           <p> TEST ITEM 2 </p>
@@ -70,7 +70,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className='w-[20rem] max-sm:mt-8'>
+      <div className='w-[25rem] max-sm:mt-8'>
         <img src='./images/trouser.png' className='rounded-md' />
         <div className='text-sm mt-2'>
           <p> TEST ITEM 2 </p>
@@ -89,7 +89,7 @@ const Home = () => {
      </div>
 
      <div className='w-[80%] mb-20 xl:mx-auto '>
-     <div className='w-[20rem] mt-8'>
+     <div className='w-[25rem] mt-8'>
         <img src='./images/bag.png' className='rounded-md' />
         <div className='text-sm mt-2'>
           <p> TEST ITEM 2 </p>
