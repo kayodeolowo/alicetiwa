@@ -9,14 +9,14 @@ const Home = () => {
         <h1> ANONYMOUS</h1>
       </div>
 
-      <h1 className='xl:hidden text-center mt-4 text-sm'> DISCOVER THE LATEST IT GIRL FASHION TRENDS </h1>
+      <h1 className='xl:hidden text-center mt-4 text-sm mb-4'> DISCOVER THE LATEST IT GIRL FASHION TRENDS </h1>
 
 
       <div>
         <hr className='border-[1.5px] border-black' />
       </div>
 
-      <div className='flex  justify-between items-center'>
+      <div className='flex  justify-between items-center mt-2'>
         <img src='./images/hamburger.png' className='h-16' />
         <h1 className='font-bold xl:text-[3rem]  xl:-mr-[14rem]'> alice*tiwa </h1>
 
@@ -54,8 +54,8 @@ const Home = () => {
       </div>
 
 
-     <div className='w-[80%] flex xl:justify-between mt-10  xl:flex-row flex-col  xl:mx-auto'>
-     <div className='w-[25rem] '>
+     <div className='xl:w-[80%] flex xl:justify-between mt-10  xl:flex-row flex-col  xl:mx-auto'>
+     <div className='w-[25rem] mx-auto xl:mx-0'>
         <img src='./images/skirt.png' className='rounded-md' />
         <div className='text-sm mt-2'>
           <p> TEST ITEM 2 </p>
@@ -70,7 +70,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className='w-[25rem] max-sm:mt-8'>
+      <div className='w-[25rem] max-sm:mt-8 mx-auto xl:mx-0'>
         <img src='./images/trouser.png' className='rounded-md' />
         <div className='text-sm mt-2'>
           <p> TEST ITEM 2 </p>
@@ -88,8 +88,8 @@ const Home = () => {
       
      </div>
 
-     <div className='w-[80%] mb-20 xl:mx-auto '>
-     <div className='w-[25rem] mt-8'>
+     <div className='xl:w-[80%] mb-20 xl:mx-auto  '>
+     <div className='w-[25rem] mt-8 mx-auto xl:mx-0'>
         <img src='./images/bag.png' className='rounded-md' />
         <div className='text-sm mt-2'>
           <p> TEST ITEM 2 </p>
