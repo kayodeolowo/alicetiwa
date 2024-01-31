@@ -13,7 +13,7 @@ const Home = () => {
 
 
       <div>
-        <hr className='border-[1.5px] border-black' />
+        <hr className='border-[1.5px] border-black mt-2' />
       </div>
 
       <div className='flex  justify-between items-center mt-2'>
